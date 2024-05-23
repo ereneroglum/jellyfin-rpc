@@ -15,7 +15,7 @@ You will need to customize your configuration depending on the one you will be u
 - Clone the repository or download the ZIP
 - Install dependencies via `python3 -m pip install -r requirements.txt`
 - Configure following [Configuration](#configuration)
-- Launch via `python3 jellyfin-rpc.py`
+- Launch via `python3 scripts/jellyfin-rpc.py`
 
 ## SystemD
 
